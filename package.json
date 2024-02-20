@@ -1,0 +1,14 @@
+{
+  "name": "flow-validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "flowValidator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "xml2json": "^0.12.0"
+  }
+}
